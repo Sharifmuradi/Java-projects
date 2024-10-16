@@ -1,0 +1,2 @@
+Key, ProductId, ProductName, CoordinatesX, CoordinatesY, CreationDate, Price, UnitOfMeasure, OwnerName, Birthday, Weight, LocationX, LocationY, LocationName
+10, 1, asdf, 32, 23, Mon Oct 14 19:44:29 MSK 2024, 213.0, PCS, adsf, 2000-12-12, 2323, 213.0, 23.0, adsf
